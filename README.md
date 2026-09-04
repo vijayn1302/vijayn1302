@@ -14,7 +14,7 @@ I enjoy learning new technologies, developing AI-powered applications, and turni
 ### 💻 Programming
 
 * Python
-* SQL
+* R
 
 ### 🤖 AI & Machine Learning
 
