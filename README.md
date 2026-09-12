@@ -3,7 +3,7 @@
 
 ### 🤖 AI & Machine Learning Enthusiast
 
-I'm an aspiring **AI/ML Engineer** passionate about building practical solutions using **Machine Learning, Deep Learning, and Generative AI**.
+I'm an passionate about building practical solutions using **Machine Learning, Deep Learning, and Generative AI**.
 
 I enjoy learning new technologies, developing AI-powered applications, and turning ideas into real-world projects. 🚀
 
